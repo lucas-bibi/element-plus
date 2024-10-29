@@ -1,5 +1,5 @@
 <template>
-  <el-button plain @click="centerDialogVisible = true">
+  <el-button plain @click="centerDialogVisible = false">
     Click to open the Dialog
   </el-button>
 
